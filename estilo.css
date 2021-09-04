@@ -1,0 +1,21 @@
+
+body {
+    background: blueviolet;  
+    color: rgb(68, 64, 64);
+}
+
+h1 {
+
+    color:#D2D2D2;
+}
+
+
+.contenido_tabla td {
+    border: 3px solid;
+    color: #171717;
+    width: 16em;
+    height: 3em;
+    text-align: center;
+    font-weight: bold;
+  }
+  
